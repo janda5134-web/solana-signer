@@ -1,0 +1,14 @@
+{
+  "name": "solana-signer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node index.mjs" },
+  "dependencies": {
+    "@solana/web3.js": "1.95.3",
+    "express": "4.19.2",
+    "cors": "2.8.5",
+    "tweetnacl": "1.0.3",
+    "node-fetch": "3.3.2",
+    "bs58": "5.0.0"
+  }
+}
